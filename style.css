@@ -1,0 +1,52 @@
+h1{
+    background-color: #eee;
+    color: rgb(38, 17, 97);
+    text-align: center;
+}
+legend{
+    color: rgb(38, 17, 97);
+    font-weight: bolder;
+}
+fieldset{
+    width: 60%;
+}
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+  input[type=date] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+  input[type=submit] {
+    width: 20%;
+    float: right;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    color: #eee;
+    background-color:  rgb(38, 17, 97);
+  }
+  #unorderList{
+      float: right;
+      list-style-type: none;
+      width: 30%;
+     margin: 2%;
+      color: rgb(38, 17, 97);
+      background-color: #eee;
+  }
+footer{
+    background-color: #eee;
+    color:  rgb(38, 17, 97);
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+
+    text-align: center;
+   
+}
